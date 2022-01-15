@@ -2,4 +2,4 @@
 5.25" FDD for the Amiga
 
 
-Modifying TEAC FD-55GFR 7193-U to work as an Amiga 880 KB 5.25" floppy drive with full implementation of 'READY' an 'Disk Change' signals.
+Modify TEAC FD-55GFR 7193-U to work as an Amiga 880 KB 5.25" floppy drive with full implementation of 'READY' an 'Disk Change' signals.
